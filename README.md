@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Cosmic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hadia%20Mazhar&fontSize=60&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,14,18,20,24,25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hey!%20I'm%20Hadia%20✨&fontSize=60&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,14,18,20,24,25" width="100%"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 </div>
 
-```javascript
+```js
 const hadia = {
     pronouns: "she" | "her",
     location: "Pakistan 🇵🇰",
@@ -52,7 +52,8 @@ const hadia = {
     funFact: "I believe AI will take over the world... but I'm helping anyway! 😄"
 };
 
-console.log(hadia.lifePhilosophy); // Output: Code, Break, Fix, Repeat 🔄
+console.log(hadia.lifePhilosophy); 
+// Output: Code, Break, Fix, Repeat 🔄
 ```
 
 <!-- Another Wave -->
@@ -160,9 +161,10 @@ console.log(hadia.lifePhilosophy); // Output: Code, Break, Fix, Repeat 🔄
 
 ## 🌟 Let's Connect & Build Cool Stuff!
 
-<a href="www.linkedin.com/in/hadia-mazhar">
+<a href="https://linkedin.com/in/hadia-mazhar">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:hadiamazhar662@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
