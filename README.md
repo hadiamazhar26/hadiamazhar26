@@ -1,4 +1,4 @@
-````md
+````html
 <h1 align="center">Hi, I'm Hadia 👋</h1>
 
 <p align="center">
@@ -19,7 +19,6 @@ class Hadia:
         self.role = "AI Engineer"
         self.learning = ["Machine Learning", "NLP", "AI Systems"]
         self.languages = ["Python", "C++", "JavaScript"]
-        self.current_focus = "Building cool things"
 
     def status(self):
         return "Learning. Building. Improving."
@@ -53,15 +52,6 @@ class Hadia:
 * Automation systems
 * Buildathon experiments
 * ML mini tools
-* Cool frontend experiences
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
-</p>
 
 ---
 
