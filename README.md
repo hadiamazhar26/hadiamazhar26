@@ -160,13 +160,10 @@ console.log(hadia.lifePhilosophy); // Output: Code, Break, Fix, Repeat 🔄
 
 ## 🌟 Let's Connect & Build Cool Stuff!
 
-<a href="https://linkedin.com/in/hadiamazhar">
+<a href="www.linkedin.com/in/hadia-mazhar">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/hadiamazhar">
-  <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:hadia.mazhar@example.com">
+<a href="mailto:hadiamazhar662@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
