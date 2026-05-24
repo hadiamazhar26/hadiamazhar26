@@ -1,193 +1,165 @@
 <div align="center">
 
-<!-- Animated Cosmic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hey!%20I'm%20Hadia%20✨&fontSize=60&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,14,18,20,24,25" width="100%"/>
+<!-- Elegant Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hadia%20Mazhar&fontSize=70&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,4,6,8" width="100%"/>
+
+<!-- Cute Animal GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
 <br/>
 
-<!-- Glitch Effect Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=AI+Engineer+%F0%9F%A4%96+ML+Developer+%F0%9F%93%88;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Currently+Learning+Everything+%F0%9F%A7%A0;Turning+Coffee+into+AI+Models+%E2%98%95" alt="Typing SVG" /></a>
+<!-- Professional Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9745f5&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+ML+Developer;Building+Intelligent+Systems;Passionate+About+Innovation" alt="Typing SVG" />
 
-<br/>
-
-<!-- Fun Badges -->
-<img src="https://img.shields.io/badge/Status-Coding%20at%203AM-ff69b4?style=for-the-badge&logo=clockify&logoColor=white" />
-<img src="https://img.shields.io/badge/Vibe-Debugging%20Mode-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Mood-Caffeinated-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+<br/><br/>
 
 </div>
 
-<br/>
+---
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+## 👋 About Me
 
-<div align="center">
-
-## 🎮 About This Human
-
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
 
 ```js
 const hadia = {
-    pronouns: "she" | "her",
+    role: "AI Engineer",
     location: "Pakistan 🇵🇰",
-    currentlyLearning: ["Machine Learning", "NLP", "Deep Learning"],
-    lifePhilosophy: "Code, Break, Fix, Repeat 🔄",
-    
-    workingOn: {
-        ai_projects: ["Voice Agents", "ML Pipelines"],
-        side_quests: ["Automation Tools", "Cool Experiments"],
-        future_plans: ["Build AGI (kidding... or am I? 🤔)"]
+    currentFocus: [
+        "Machine Learning",
+        "Natural Language Processing", 
+        "Deep Learning"
+    ],
+    technologies: {
+        languages: ["Python", "C++", "JavaScript"],
+        aiTools: ["TensorFlow", "PyTorch", "Scikit-learn"],
+        webDev: ["React", "TypeScript", "Node.js"]
     },
-    
-    dailyRoutine: {
-        morning: "Coffee ☕",
-        afternoon: "Code 💻", 
-        evening: "Debug 🐛",
-        night: "More Code 🌙",
-        repeat: true
-    },
-    
-    funFact: "I believe AI will take over the world... but I'm helping anyway! 😄"
+    interests: ["AI Research", "Automation", "Problem Solving"]
 };
-
-console.log(hadia.lifePhilosophy); 
-// Output: Code, Break, Fix, Repeat 🔄
 ```
 
-<!-- Another Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br clear="right"/>
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
-## 🎨 My Playground
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,sql" />
 
-### Languages I Speak (to computers)
+### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,sql&perline=5" />
+### Web Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css" />
 
-### AI/ML Magic ✨
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-### Web Wizardry 🧙‍♀️
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css&perline=5" />
-
-### Tools I Can't Live Without 🛠️
-
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,github&perline=5" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,github" />
 
 </div>
 
-<!-- Fancy Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Cute Cat Divider -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-## 📊 Stats That Make Me Look Productive
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadiamazhar26&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=hadiamazhar26&theme=midnight-purple&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hadiamazhar26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&rank_icon=github" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hadiamazhar26&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiamazhar26&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-<br/><br/>
+<!-- Cute Coding Animal -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiamazhar26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" height="170"/>
+</div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadiamazhar26&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<!-- Snake Animation -->
 <div align="center">
-  <br/>
-  <h3>🐍 Watch My Contributions Get Eaten!</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake.svg">
-  </picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadiamazhar26&custom_title=Contribution%20Graph&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<!-- Cute Animal Break -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="300">
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/hadiamazhar26/voiceagentf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=voiceagentf&theme=midnight-purple&hide_border=true" />
+</a>
+<a href="https://github.com/hadiamazhar26/crmfrontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=crmfrontend&theme=midnight-purple&hide_border=true" />
+</a>
+
+<a href="https://github.com/hadiamazhar26/rlproject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=rlproject&theme=midnight-purple&hide_border=true" />
+</a>
+<a href="https://github.com/hadiamazhar26/blockchain_infosecurity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=blockchain_infosecurity&theme=midnight-purple&hide_border=true" />
+</a>
+
+</div>
+
+<!-- Cute Working Animal -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiamazhar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hadiamazhar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadia.mazhar@example.com)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-## 🚀 Cool Stuff I've Built
+![Profile Views](https://komarev.com/ghpvc/?username=hadiamazhar26&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/hadiamazhar26?style=for-the-badge&color=blueviolet)
 
 </div>
 
+<!-- Cute Animals Footer -->
 <div align="center">
-  <a href="https://github.com/hadiamazhar26/voiceagentf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=voiceagentf&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/hadiamazhar26/crmfrontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=crmfrontend&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-  </a>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
 </div>
 
-<div align="center">
-  <a href="https://github.com/hadiamazhar26/rlproject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=rlproject&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/hadiamazhar26/blockchain_infosecurity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=blockchain_infosecurity&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
-  </a>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Elegant Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,4,6,8&section=footer" width="100%"/>
 
 <div align="center">
 
-## 💭 Random Dev Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-## 🌟 Let's Connect & Build Cool Stuff!
-
-<a href="https://linkedin.com/in/hadiamazhar">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/hadiamazhar">
-  <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:hadia.mazhar@example.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=hadiamazhar26&label=Profile%20Views&color=F75C7E&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/hadiamazhar26?label=Followers&style=for-the-badge&color=F75C7E&logo=github" />
-
-</div>
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,20,24,25&section=footer" width="100%"/>
-
-<div align="center">
-  
-### 💜 Thanks for stopping by! Now go build something awesome! 💜
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=Happy+Coding!+%F0%9F%9A%80;May+your+code+compile+on+first+try!+%E2%9C%A8;Keep+learning%2C+keep+building!+%F0%9F%92%AA" alt="Typing SVG" />
+### Thank you for visiting! ✨
 
 </div>
