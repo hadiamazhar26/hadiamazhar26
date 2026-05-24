@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Cosmic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hey!%20I'm%20Hadia%20✨&fontSize=60&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,14,18,20,24,25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hadia%20Mazhar&fontSize=60&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,14,18,20,24,25" width="100%"/>
 
 <br/>
 
