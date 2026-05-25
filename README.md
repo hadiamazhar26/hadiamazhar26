@@ -14,17 +14,16 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
-I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems. With expertise in **Machine Learning**, **Natural Language Processing**, and **Deep Learning**, I focus on creating innovative solutions at the intersection of AI and software engineering.
+I'm an **AI Engineer** focused on building intelligent systems that solve real-world problems. My core expertise lies in **Machine Learning**, **Natural Language Processing**, and **Deep Learning**, with an emphasis on developing practical and scalable AI solutions.
 
-Currently exploring cutting-edge technologies in AI research while developing scalable applications using modern tech stacks. I believe in continuous learning and contributing to the open-source community.
+I’m continuously exploring advancements in AI and modern software engineering practices, aiming to apply them to real-world applications. I value clean problem-solving, continuous learning, and building impactful AI-driven systems.
 
-**What I'm working on:**
-- 🤖 Advanced ML/AI applications
-- 🧠 Natural Language Processing projects
-- 🔧 Full-stack development with AI integration
-- 📚 Contributing to open-source AI tools
+**Areas of interest:**
+- 🤖 Machine Learning and AI applications  
+- 🧠 Natural Language Processing and Generative AI  
+- 🔬 Model development and experimentation  
 
 ---
 
