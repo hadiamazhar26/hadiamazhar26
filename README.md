@@ -29,7 +29,9 @@ I’m continuously exploring advancements in AI and modern software engineering 
 
 ## 🛠️ Technical Skills
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql,pytorch,sklearn,tensorflow,git,vscode,linux" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql,pytorch,sklearn,tensorflow,git,vscode,langgraph" />
+</div>
 
 ---
 
