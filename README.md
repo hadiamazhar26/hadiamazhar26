@@ -1,11 +1,14 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hadia%20Mazhar&fontSize=55&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,3,4,6,8" width="100%"/>
+<!-- Elegant Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hadia%20Mazhar&fontSize=60&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,3,4,6,8" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9745f5&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning+Developer;Building+Intelligent+Systems" />
+<!-- Professional Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9745f5&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+ML+Developer;Building+Intelligent+Systems;Passionate+About+Innovation" alt="Typing SVG" />
+
+<br/><br/>
 
 </div>
 
@@ -13,70 +16,77 @@
 
 ## 👋 About Me
 
-AI Engineer focused on building scalable intelligent systems using **Machine Learning**, **Natural Language Processing**, and **Deep Learning**.
+I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems. With expertise in **Machine Learning**, **Natural Language Processing**, and **Deep Learning**, I focus on creating innovative solutions at the intersection of AI and software engineering.
 
-I enjoy turning ideas into practical, production-ready applications that combine AI with software engineering. My work spans from model development to full-stack AI systems and automation tools.
+Currently exploring cutting-edge technologies in AI research while developing scalable applications using modern tech stacks. I believe in continuous learning and contributing to the open-source community.
 
-**Currently working on:**
-- 🤖 AI & Machine Learning Applications  
-- 🧠 NLP and Generative AI Systems  
-- ⚡ AI-powered Full Stack Development  
-- 🔬 Open-source contributions & experimentation  
+**What I'm working on:**
+- 🤖 Advanced ML/AI applications
+- 🧠 Natural Language Processing projects
+- 🔧 Full-stack development with AI integration
+- 📚 Contributing to open-source AI tools
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<table>
-<tr>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,sql" />
 
-<td align="center" width="33%">
+<br/><br/>
 
-**Languages**  
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" />
-
-</td>
-
-<td align="center" width="33%">
-
-**AI / ML**  
-<br/>
+### AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
-</td>
+<br/><br/>
 
-<td align="center" width="33%">
+### Web Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css" />
 
-**Tools & Dev**  
+<br/><br/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,github" />
+
+</div>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,docker,git,linux" />
 
-</td>
+---
 
-</tr>
-</table>
+## 📊 GitHub Statistics
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadiamazhar26&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=hadiamazhar26&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiamazhar26&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadiamazhar26&custom_title=Contribution%20Graph&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hadiamazhar26&show_icons=true&theme=midnight-purple&hide_border=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=hadiamazhar26&theme=midnight-purple&hide_border=true"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hadiamazhar26/hadiamazhar26/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiamazhar26&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
+<br/>
 
 ---
 
@@ -85,14 +95,24 @@ I enjoy turning ideas into practical, production-ready applications that combine
 <div align="center">
 
 <a href="https://github.com/hadiamazhar26/voiceagentf">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=voiceagentf&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=voiceagentf&theme=midnight-purple&hide_border=true" />
+</a>
+
+<a href="https://github.com/hadiamazhar26/crmfrontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=crmfrontend&theme=midnight-purple&hide_border=true" />
 </a>
 
 <a href="https://github.com/hadiamazhar26/rlproject">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=rlproject&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=rlproject&theme=midnight-purple&hide_border=true" />
+</a>
+
+<a href="https://github.com/hadiamazhar26/blockchain_infosecurity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadiamazhar26&repo=blockchain_infosecurity&theme=midnight-purple&hide_border=true" />
 </a>
 
 </div>
+
+<br/>
 
 ---
 
@@ -107,16 +127,17 @@ I enjoy turning ideas into practical, production-ready applications that combine
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hadiamazhar26&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/hadiamazhar26?style=for-the-badge&color=blueviolet)
 
 </div>
 
----
+<br/>
+
+<!-- Elegant Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,3,4,6,8&section=footer" width="100%"/>
 
 <div align="center">
 
-### ✨ Thanks for visiting!
+### Thank you for visiting! ✨
 
 </div>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,3,4,6,8&section=footer" width="100%"/>
