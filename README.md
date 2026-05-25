@@ -29,29 +29,41 @@ I’m continuously exploring advancements in AI and modern software engineering 
 
 ## 🛠️ Technical Skills
 
+<div style="overflow:hidden; width:100%;">
+
+<div style="display:flex; gap:40px; animation: scroll 12s linear infinite; width:max-content;">
+
+<!-- Programming -->
 <div align="center">
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,sql" />
-
-<br/><br/>
-
-### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-
-<br/><br/>
-
-### Web Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css" />
-
-<br/><br/>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,github" />
-
+<b>Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
 </div>
 
-<br/>
+<!-- ML -->
+<div align="center">
+<b>Machine Learning</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+</div>
+
+<!-- Tools -->
+<div align="center">
+<b>Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,vscode" />
+</div>
+
+</div>
+</div>
+
+<style>
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+</style>
 
 ---
 
