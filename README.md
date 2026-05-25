@@ -29,41 +29,22 @@ I’m continuously exploring advancements in AI and modern software engineering 
 
 ## 🛠️ Technical Skills
 
-<div style="overflow:hidden; width:100%;">
-
-<div style="display:flex; gap:40px; animation: scroll 12s linear infinite; width:max-content;">
-
-<!-- Programming -->
 <div align="center">
-<b>Languages</b><br/><br/>
+
+### Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
-</div>
 
-<!-- ML -->
-<div align="center">
-<b>Machine Learning</b><br/><br/>
+<br/><br/>
+
+### Machine Learning / AI
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
-</div>
 
-<!-- Tools -->
-<div align="center">
-<b>Tools</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,vscode" />
-</div>
+<br/><br/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,linux" />
 
 </div>
-</div>
-
-<style>
-@keyframes scroll {
-  0% {
-    transform: translateX(100%);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-</style>
 
 ---
 
@@ -131,9 +112,9 @@ I’m continuously exploring advancements in AI and modern software engineering 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiamazhar)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hadiamazhar)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadia.mazhar@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadia-mazhar)  
+ 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadiamazhar662@gmail.com)
 
 <br/>
 
