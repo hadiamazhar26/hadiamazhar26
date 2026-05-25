@@ -14,35 +14,7 @@
 
 ---
 
-## 👋 About Me <sub><sup>ฅ^•ﻌ•^ฅ</sup></sub>
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80">
-
-```js
-const hadia = {
-    role: "AI Engineer",
-    location: "Pakistan 🇵🇰",
-    currentFocus: [
-        "Machine Learning",
-        "Natural Language Processing", 
-        "Deep Learning"
-    ],
-    technologies: {
-        languages: ["Python", "C++", "JavaScript"],
-        aiTools: ["TensorFlow", "PyTorch", "Scikit-learn"],
-        webDev: ["React", "TypeScript", "Node.js"]
-    },
-    interests: ["AI Research", "Automation", "Problem Solving"]
-};
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Technical Skills <sub><sup>ฅ(⌯͒• ɪ •⌯͒)ฅ</sup></sub>
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" width="60">
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -64,9 +36,7 @@ const hadia = {
 
 ---
 
-## 📊 GitHub Statistics <sub><sup>/ᐠ. .ᐟ\ﾉ</sup></sub>
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" width="70">
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -86,9 +56,7 @@ const hadia = {
 
 ---
 
-## 🐍 Contribution Snake <sub><sup>ฅ^•ﻌ•^ฅ</sup></sub>
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Tears%20of%20Joy.png" width="65">
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
@@ -102,9 +70,7 @@ const hadia = {
 
 ---
 
-## 🚀 Featured Projects <sub><sup>(=^・ェ・^=)</sup></sub>
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Smiling%20Cat%20with%20Heart-Eyes.png" width="70">
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -128,9 +94,7 @@ const hadia = {
 
 ---
 
-## 🌐 Connect With Me <sub><sup>ฅ(• ɪ •)ฅ</sup></sub>
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Grinning%20Cat.png" width="65">
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -152,6 +116,6 @@ const hadia = {
 
 <div align="center">
 
-### Thank you for visiting! ✨ <sub><sup>ฅ^•ﻌ•^ฅ</sup></sub>
+### Thank you for visiting! ✨
 
 </div>
