@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- Elegant Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hadia%20Mazhar&fontSize=70&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,4,6,8" width="100%"/>
-
-<!-- Cute Animal GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hadia%20Mazhar&fontSize=60&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,3,4,6,8" width="100%"/>
 
 <br/>
 
@@ -17,9 +14,9 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me <sub><sup>ฅ^•ﻌ•^ฅ</sup></sub>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80">
 
 ```js
 const hadia = {
@@ -43,7 +40,9 @@ const hadia = {
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills <sub><sup>ฅ(⌯͒• ɪ •⌯͒)ฅ</sup></sub>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" width="60">
 
 <div align="center">
 
@@ -61,14 +60,13 @@ const hadia = {
 
 </div>
 
-<!-- Cute Cat Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-</div>
+<br/>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics <sub><sup>/ᐠ. .ᐟ\ﾉ</sup></sub>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" width="70">
 
 <div align="center">
 
@@ -77,10 +75,9 @@ const hadia = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiamazhar26&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-<!-- Cute Coding Animal -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
 </div>
+
+<br/>
 
 <!-- Activity Graph -->
 <div align="center">
@@ -89,7 +86,9 @@ const hadia = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake <sub><sup>ฅ^•ﻌ•^ฅ</sup></sub>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Tears%20of%20Joy.png" width="65">
 
 <div align="center">
 <picture>
@@ -99,14 +98,13 @@ const hadia = {
 </picture>
 </div>
 
-<!-- Cute Animal Break -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="300">
-</div>
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects <sub><sup>(=^・ェ・^=)</sup></sub>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Smiling%20Cat%20with%20Heart-Eyes.png" width="70">
 
 <div align="center">
 
@@ -126,14 +124,13 @@ const hadia = {
 
 </div>
 
-<!-- Cute Working Animal -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
-</div>
+<br/>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me <sub><sup>ฅ(• ɪ •)ฅ</sup></sub>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Grinning%20Cat.png" width="65">
 
 <div align="center">
 
@@ -148,18 +145,13 @@ const hadia = {
 
 </div>
 
-<!-- Cute Animals Footer -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
-</div>
+<br/>
 
 <!-- Elegant Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,4,6,8&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,3,4,6,8&section=footer" width="100%"/>
 
 <div align="center">
 
-### Thank you for visiting! ✨
+### Thank you for visiting! ✨ <sub><sup>ฅ^•ﻌ•^ฅ</sup></sub>
 
 </div>
